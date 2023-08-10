@@ -4,52 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ab3b6e-9813-452d-8736-068cbda62eb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="a5ab3b6e-9813-452d-8736-068cbda62eb4" name="Changes" comment="second commit test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/CoursPersoBoucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/CoursPersoBoucleWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceChapitres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceChapitres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceFactorielle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceFactorielle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombremystère.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombremystère.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombresPremiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombresPremiers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExercicePopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExercicePopulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceTablesMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceTablesMultiplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceUnADix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceUnADix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/SommesConsécutives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/SommesConsécutives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/TestBoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/TestBoucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMajeurMineur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMajeurMineur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMiseEnFormeChaine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMiseEnFormeChaine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoNomPrenom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoNomPrenom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoPermutationDeuxVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoPermutationDeuxVariables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoSommeCarres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoSommeCarres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoVolumeCercle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoVolumeCercle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/Candidature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/Candidature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/EtatDeLeau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/EtatDeLeau.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceAnneeBisextile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceAnneeBisextile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDansLeMois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDansLeMois.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDeLaSemaine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDeLaSemaine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceLettreNombreCaractèreSpécial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceLettreNombreCaractèreSpécial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMajeurMineur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMajeurMineur.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMaximumTroisNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMaximumTroisNombres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExercicePairImpair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExercicePairImpair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceVoyelleConsonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceVoyelleConsonne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/CorrigeOfficiel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/CorrigeOfficiel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsRevisionAutreMethode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsRevisionAutreMethode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositifRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositifRevision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/Corrigé.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/Corrigé.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/ExerciceTableauxEgauxRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/ExerciceTableauxEgauxRevision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximaleRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximaleRevision.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +57,20 @@
       <option name="presentableId" value="Default" />
       <updated>1691494336193</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit test">
+      <option name="closed" value="true" />
+      <created>1691670838308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691670838309</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
