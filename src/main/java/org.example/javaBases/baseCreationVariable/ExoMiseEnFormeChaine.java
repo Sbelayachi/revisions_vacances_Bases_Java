@@ -7,7 +7,7 @@
 //1. Convertir la chaîne en tableau puis afficher les caractères séparer d'une virgule
 //2. Afficher la première lettre de chaque mot en majuscule
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

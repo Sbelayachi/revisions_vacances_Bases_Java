@@ -4,7 +4,7 @@
 
 
 
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 
 
 import java.util.Scanner;

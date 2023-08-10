@@ -6,7 +6,7 @@
 //5. Si le chiffre saisi est égal au chiffre aléatoire, écrire : Vous avez gagné en X tentatives
 
 // TODO: 06/08/2023 essayer de simplifier le code
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 import java.util.Random;
 import java.util.Scanner;

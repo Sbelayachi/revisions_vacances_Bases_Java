@@ -6,7 +6,7 @@
 
 
 // Essai 1 : LONG ++++ Avec comparasion de 4 tableaux
-package org.example.baseTabeaux.exerciceTableauxEgaux;
+package org.example.javaBases.baseTabeaux.exerciceTableauxEgaux;
 
 import java.util.Arrays;
 

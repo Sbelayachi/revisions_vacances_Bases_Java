@@ -3,7 +3,7 @@
 //1. Ecrire un programme qui permet de vérifier si 2 tableaux sont égaux
 //2. Vérifier la taille des tableaux et l'ordre des valeurs
 
-package org.example.baseTabeaux.exerciceTableauxEgaux;
+package org.example.javaBases.baseTabeaux.exerciceTableauxEgaux;
 
 public class Corrigé {
         // exercice slide 97

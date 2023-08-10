@@ -5,7 +5,7 @@
 //2. À l'aide de boucles, afficher les suites de nombres qui permettent d'arriver au nombre inscrit précédemment
 
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 public class SommesConsécutives {
     public static void main(String[] args) {

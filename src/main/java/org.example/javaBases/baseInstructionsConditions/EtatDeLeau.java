@@ -10,7 +10,7 @@
 // ==================== entraînement du 3 août================================
 
 //TODO : résoudre les exceptions + prob en cas de saisie d'un nombre négatif  ex -4 => le signe moins n'est pas pris en compte dans la saisie
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 
 import java.util.Scanner;
 

@@ -2,9 +2,7 @@
 //tableau = [23, 150, 12, 28, 59, 2]
 //La valeur maximale est 150 à l'indice 1
 
-package org.example.baseTabeaux.exerciceValeurMaximale;
-
-import org.example.baseTabeaux.exerciceTableauxEgaux.TableauxEgauxMethode1;
+package org.example.javaBases.baseTabeaux.exerciceValeurMaximale;
 
 public class ExerciceValeurMaximaleRevision {
     public static void main(String[] args) {

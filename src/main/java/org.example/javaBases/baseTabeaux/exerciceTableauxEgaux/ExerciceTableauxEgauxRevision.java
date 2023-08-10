@@ -7,7 +7,7 @@
 //tableau2 = [1, 4, 2, 3]
 
 
-package org.example.baseTabeaux.exerciceTableauxEgaux;
+package org.example.javaBases.baseTabeaux.exerciceTableauxEgaux;
 
 import java.util.Arrays;
 

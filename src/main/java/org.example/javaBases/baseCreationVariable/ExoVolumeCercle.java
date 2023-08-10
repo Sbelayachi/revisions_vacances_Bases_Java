@@ -3,7 +3,7 @@
 //2. La formule est la suivante : 1/3 × π × r² × h
 
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

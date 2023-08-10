@@ -1,4 +1,4 @@
-package org.example.baseTabeaux.exerciceTableauxEgaux;
+package org.example.javaBases.baseTabeaux.exerciceTableauxEgaux;
 
 
 public class TableauxEgauxMethode2 {

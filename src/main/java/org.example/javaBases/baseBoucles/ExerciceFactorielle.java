@@ -3,7 +3,7 @@
 //2. Exemple : la factorielle de 3 est 1 x 2 x 3 = 6
 //3. Réaliser un programme qui affiche la factorielle d'un nombre
 // TODO: 06/08/2023 exercice à refaire +++
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 import java.util.Scanner;
 

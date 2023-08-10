@@ -6,7 +6,7 @@
 
 
 
-package org.example.baseTabeaux.exerciceTableauPositif;
+package org.example.javaBases.baseTabeaux.exerciceTableauPositif;
 
 import java.util.Arrays;
 

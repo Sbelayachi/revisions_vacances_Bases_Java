@@ -5,7 +5,7 @@
 //4. Si le nombre est inférieur à 1 et supérieur à 7, afficher un message d'erreur
 
 
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 
 import java.util.Scanner;
 

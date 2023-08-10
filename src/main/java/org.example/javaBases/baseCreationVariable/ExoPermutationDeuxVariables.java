@@ -8,7 +8,7 @@
 //3
 //a = 3 et b = 5
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

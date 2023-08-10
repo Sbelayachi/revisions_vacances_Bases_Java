@@ -21,7 +21,7 @@
 
 //EXEMPLE :
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 public class CoursPersoBoucleWhile {
     public static void main(String[] args) {

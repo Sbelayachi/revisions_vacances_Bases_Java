@@ -6,7 +6,7 @@
 //précédemment
 
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

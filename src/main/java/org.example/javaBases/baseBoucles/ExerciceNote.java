@@ -8,7 +8,7 @@
 //4. Afficher la moyenne des notes
 //5. /!\ la note doit être comprise entre 0 et 20
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 import java.util.Scanner;
 

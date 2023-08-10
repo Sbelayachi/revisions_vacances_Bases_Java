@@ -16,7 +16,7 @@
 //}
 // ======= ENTRAINEMENT 3 aout =========essai avec une boucle while même si je connais le nombre de bouclage nécessaire (10)
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 public class ExerciceUnADix {
     public static void main(String[] args) {
 int i=0;

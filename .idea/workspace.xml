@@ -4,14 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5ab3b6e-9813-452d-8736-068cbda62eb4" name="Changes" comment="" />
+    <list default="true" id="a5ab3b6e-9813-452d-8736-068cbda62eb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/CoursPersoBoucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/CoursPersoBoucleWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceChapitres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceChapitres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceFactorielle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceFactorielle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombremystère.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombremystère.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombresPremiers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNombresPremiers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExercicePopulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExercicePopulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceTablesMultiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceTablesMultiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceUnADix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/ExerciceUnADix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/SommesConsécutives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/SommesConsécutives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/TestBoucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseBoucles/TestBoucleFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMajeurMineur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMajeurMineur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMiseEnFormeChaine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoMiseEnFormeChaine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoNomPrenom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoNomPrenom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoPermutationDeuxVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoPermutationDeuxVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoSommeCarres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoSommeCarres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoVolumeCercle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseCreationVariable/ExoVolumeCercle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/Candidature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/Candidature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/EtatDeLeau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/EtatDeLeau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceAnneeBisextile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceAnneeBisextile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDansLeMois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDansLeMois.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDeLaSemaine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceJoursDeLaSemaine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceLettreNombreCaractèreSpécial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceLettreNombreCaractèreSpécial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMajeurMineur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMajeurMineur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMaximumTroisNombres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceMaximumTroisNombres.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExercicePairImpair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExercicePairImpair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceVoyelleConsonne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseInstructionsConditions/ExerciceVoyelleConsonne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/CorrigeOfficiel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/CorrigeOfficiel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsMethode3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsRevisionAutreMethode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceCentElements/ExerciceCentElementsRevisionAutreMethode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositifRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositifRevision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/Corrigé.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/Corrigé.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/ExerciceTableauxEgauxRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/ExerciceTableauxEgauxRevision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauxEgaux/TableauxEgauxMethode2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximaleRevision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximaleRevision.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2ThTV29sjH25Vx2wbJodp0EJe54" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,13 +79,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "onboarding.tips.debug.path": "C:/Users/samir/OneDrive/Bureau/java_revisions maison/revisions_travail_vacances/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samir/OneDrive/Bureau/java_revisions maison/revisions_travail_vacances&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/samir/OneDrive/Bureau/java_revisions maison/revisions_travail_vacances/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samir\OneDrive\Bureau\java_revisions maison\revisions_travail_vacances\src\main\java\org.example" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,9 +107,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceTableauPositif/ExerciceTableauPositifRevision.java</url>
+          <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org.example/javaBases/baseTabeaux/exerciceValeurMaximale/ExerciceValeurMaximaleRevision.java</url>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

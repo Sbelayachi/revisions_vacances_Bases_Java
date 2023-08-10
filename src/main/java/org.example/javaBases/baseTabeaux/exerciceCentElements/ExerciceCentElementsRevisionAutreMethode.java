@@ -14,7 +14,7 @@
 //// 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
 
 
-package org.example.baseTabeaux.exerciceCentElements;
+package org.example.javaBases.baseTabeaux.exerciceCentElements;
 
         public class ExerciceCentElementsRevisionAutreMethode {
     public static void main(String[] args) {

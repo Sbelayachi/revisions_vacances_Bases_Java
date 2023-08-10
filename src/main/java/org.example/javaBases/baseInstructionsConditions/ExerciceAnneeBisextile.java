@@ -7,7 +7,7 @@
 
 
 // entrainement => exo refait le 02/08
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 import java.util.Scanner;
 public class ExerciceAnneeBisextile {
     public static void main(String[] args) {

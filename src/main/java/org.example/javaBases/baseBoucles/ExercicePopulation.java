@@ -10,7 +10,7 @@
 
 // entrainement 03 aout
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 public class ExercicePopulation {
     public static void main(String[] args) {

@@ -9,7 +9,7 @@
 
 
 // entrainement du 3 août
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 import java.util.Scanner;
 public class Candidature {
     public static void main(String[] args) {

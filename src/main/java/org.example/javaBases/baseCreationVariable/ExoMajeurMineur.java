@@ -6,7 +6,7 @@
 //4. /!\ Ne pas utiliser de structure conditionnelle
 
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

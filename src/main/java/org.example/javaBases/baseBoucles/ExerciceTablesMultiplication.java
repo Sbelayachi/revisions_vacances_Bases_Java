@@ -3,7 +3,7 @@
 
 //1. Créer un programme permettant d'afficher les tables de multiplications de 1 à 10
 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 public class ExerciceTablesMultiplication {
     public static void main(String[] args) {

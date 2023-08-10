@@ -7,7 +7,7 @@
 
 // entrainement du 06/08
 // TODO: 06/08/2023 a refaire ++++++ 
-package org.example.baseTabeaux.exerciceCentElements;
+package org.example.javaBases.baseTabeaux.exerciceCentElements;
 
 import java.util.Arrays;
 

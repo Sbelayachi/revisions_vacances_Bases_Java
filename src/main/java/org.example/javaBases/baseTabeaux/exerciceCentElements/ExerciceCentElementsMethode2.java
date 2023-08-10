@@ -16,7 +16,7 @@
 
 //METHODE 2 = SANS tableau
 
-package org.example.baseTabeaux.exerciceCentElements;
+package org.example.javaBases.baseTabeaux.exerciceCentElements;
 
 public class ExerciceCentElementsMethode2 {
     public static void main(String[] args) {

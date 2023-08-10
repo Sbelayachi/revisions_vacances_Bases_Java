@@ -4,7 +4,7 @@
 //3. Créer une condition qui permet d'afficher si le nombre est pair ou impair
 
 
-package org.example.baseInstructionsConditions;
+package org.example.javaBases.baseInstructionsConditions;
 
 import java.util.Scanner;
 

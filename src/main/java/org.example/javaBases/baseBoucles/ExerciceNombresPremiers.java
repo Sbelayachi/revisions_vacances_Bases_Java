@@ -5,7 +5,7 @@
 //3. Écrire un programme qui permet de savoir si un nombre est premier
 
 // TODO: 05/08/2023 a refaire !!!!!!! 
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 
 import java.util.Scanner;
 

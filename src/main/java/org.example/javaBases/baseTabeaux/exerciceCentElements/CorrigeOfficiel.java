@@ -1,4 +1,4 @@
-package org.example.baseTabeaux.exerciceCentElements;
+package org.example.javaBases.baseTabeaux.exerciceCentElements;
 
 public class CorrigeOfficiel {
     public static void main(String[] args) {

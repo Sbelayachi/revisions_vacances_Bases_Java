@@ -7,7 +7,7 @@
 
 
 //========REVISION DU 3 AOUT
-package org.example.baseBoucles;
+package org.example.javaBases.baseBoucles;
 import java.util.Scanner;
 public class ExerciceChapitres                    {
     public static void main(String[] args)      {

@@ -2,7 +2,7 @@
 //1. Écrire un programme avec les variables suivantes : a, b
 //2. Afficher la somme des carrés de ces deux nombres
 
-package org.example.baseCreationVariable;
+package org.example.javaBases.baseCreationVariable;
 
 import java.util.Scanner;
 

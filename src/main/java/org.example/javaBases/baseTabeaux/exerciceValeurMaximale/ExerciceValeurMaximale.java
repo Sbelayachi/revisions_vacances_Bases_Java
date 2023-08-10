@@ -3,7 +3,7 @@
 //      ==> tableau = [23, 150, 12, 28, 59, 2]
 //      ==> La valeur maximale est 150 à l'indice 1
 
-package org.example.baseTabeaux.exerciceValeurMaximale;
+package org.example.javaBases.baseTabeaux.exerciceValeurMaximale;
 
 import java.util.Arrays;
 
